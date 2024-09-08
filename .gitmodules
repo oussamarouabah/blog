@@ -1,0 +1,13 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
+[submodule "public"]
+	path = public
+	url = https://github.com/oussamarouabah/oussama.github.io.git
+	branch = main
